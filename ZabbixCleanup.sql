@@ -1,4 +1,4 @@
--- force cleanup Zabbix History
+-- force cleanup Zabbix History MySQL MariaDB
 
 SET @days = '31';
 
